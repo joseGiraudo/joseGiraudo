@@ -1,5 +1,7 @@
-- José Giraudo
 
+<hr><hr/>
+<h2> José Giraudo <h2>
+<hr><hr/>
 
 - Estudiante de Analista industrial y programación
 - Desarrollando conocimientos en:
