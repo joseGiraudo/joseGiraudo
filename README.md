@@ -9,6 +9,7 @@
     - React
     - Python
     - CSS
+    - HTML
     - MongoDB
     - NodeJs
     
