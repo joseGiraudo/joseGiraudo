@@ -3,19 +3,18 @@
 <h2> José Giraudo <h2>
 <hr><hr/>
 
-- Estudiante de Analista industrial y programación
-- Desarrollando conocimientos en:
+- Analista industrial recibido de la Facultad de Ingeniería Química, UNL.
+- Estudiante de programación y desarrollo web.
+ Actualmente desarrollando y aplicando conocimientos en:
     
     - React
     - Python
     - CSS
     - HTML
+    - Javascript
     - MongoDB
     - NodeJs
     
     - y ampliando...
 
-<!---
-joseGiraudo/joseGiraudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
