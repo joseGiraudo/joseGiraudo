@@ -8,12 +8,12 @@
  Actualmente desarrollando y aplicando conocimientos en:
     
     - React
-    - Python
     - CSS
     - HTML
     - Javascript
     - MongoDB
     - NodeJs
+    - Python
     
     - y ampliando...
 
