@@ -8,16 +8,17 @@
 
  Actualmente desarrollando y aplicando conocimientos en:
     
+    - C#
+    - SQL
+    - Typescript
+    - Javascript
     - React
     - CSS
     - HTML
-    - Javascript
     - MongoDB
     - NodeJs
     - Python
-    - Typescript
-    - C#
-    - SQL
+    
     
     - y ampliando...
 
