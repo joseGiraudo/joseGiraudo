@@ -1,23 +1,25 @@
 
 <hr><hr/>
 <h2> José Giraudo <h2>
+ <h3>Desarrollador Fullstack</h3>
 <hr><hr/>
 
-- Estudiante Tecnicatura Universitaria en Programación, FRC - UTN.
-- Analista industrial recibido de la Facultad de Ingeniería Química, UNL.
+<h3>Formación Académica</h3>
+- Técnico Universitario en Programación, FRC - UTN.
+- Analista industrial, Facultad de Ingeniería Química, UNL.
 
- Actualmente desarrollando y aplicando conocimientos en:
+ Orientado a backend, poseo conocimiento en:
     
-    - C#
-    - SQL
-    - Typescript
-    - Javascript
+    - Java (Spring Boot)
+    - C# (.NET)
+    - SQL (PostgreSQL, MySQL, SQL Server)
+    - Typescript / Javascript
+    - Angular
     - React
     - CSS
     - HTML
     - MongoDB
     - NodeJs
-    - Python
     
     
     - y ampliando...
