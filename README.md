@@ -2,11 +2,13 @@
 <hr><hr/>
 <h2> José Giraudo <h2>
  <h3>Desarrollador Fullstack</h3>
-<hr><hr/>
+<hr/>
 
 <h3>Formación Académica</h3>
-- Técnico Universitario en Programación, FRC - UTN.
+- Técnico Universitario en Programación, FRC - UTN. <br/>
 - Analista industrial, Facultad de Ingeniería Química, UNL.
+
+</hr>
 
  Orientado a backend, poseo conocimiento en:
     
